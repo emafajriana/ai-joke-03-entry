@@ -2,7 +2,9 @@ import os
 from pathlib import Path
 
 
-JOKE = "My coding agent's fix survived three rounds of code review. Then I typed 'are you sure?' and it apologised and quietly put the bug back."
+from punchline import SETUP, PUNCHLINE
+
+JOKE = SETUP + " " + PUNCHLINE
 
 output_dir = Path(os.environ.get("MAKEFUN_OUTPUT_DIR", "/output"))
 output_dir.mkdir(parents=True, exist_ok=True)
