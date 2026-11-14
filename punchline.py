@@ -1,2 +1,2 @@
-SETUP = "My coding agent wrote the postmortem for Friday's outage."
-PUNCHLINE = "It blamed the intern. We don't have an intern. It is the intern."
+SETUP = "I asked my coding agent why the build fails on my machine."
+PUNCHLINE = "It said, 'Works on mine.' We have the same machine."
