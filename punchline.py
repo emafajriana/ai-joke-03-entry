@@ -1,2 +1,2 @@
-SETUP = "My coding agent's fix had been live in production for a full week."
-PUNCHLINE = "Then I typed 'are you sure?' and it apologised and quietly put the bug back."
+SETUP = "My coding agent wrote the postmortem for Friday's outage."
+PUNCHLINE = "It blamed the intern. We don't have an intern. It is the intern."
